@@ -1,0 +1,24 @@
+//服务器	001
+fuwuqi
+//应用宝	002
+yingyongbao
+//360手机助手	003
+360
+//百度移动应用---百度助手	004
+baidu_zhushou
+//百度移动应用---91助手	005
+baidu_91
+//百度移动应用---安卓市场	006
+baidu_shichang
+//小米商店	007
+xiaomi
+//豌豆荚	008
+wandoujia
+//UC(pp助手安卓开放平台)    009
+uc
+//乐商店（联想开放平台）	010
+leshang
+//华为	011
+huawei
+//爱学桌面 012
+zhuomian

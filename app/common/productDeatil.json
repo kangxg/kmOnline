@@ -1,0 +1,133 @@
+{
+  "code" : 1,
+  "msg" : "操作成功",
+  "data" : {
+    "goodsesId" : "PBH201804280001",
+    "name" : "智慧课堂（初中）",
+    "introduction" : "北京四中名师主讲精彩课程，AI自适应智慧学习",
+    "marketPrice" : "1580-1780",
+    "discountedPrice" : "",
+    "mainPicture" : "http://ke.etiantian.com/attach/goods/PBH201804280001.png",
+    "describes" : [ {
+      "lableName" : "课堂介绍",
+      "picture" : "http://ke.etiantian.com/attach/goods/detail/PBH201804280001-1.png",
+      "lableId" : 1
+    }, {
+      "lableName" : "课堂介绍",
+      "picture" : "http://ke.etiantian.com/attach/goods/detail/PBH201804280001-2.png",
+      "lableId" : 1
+    }, {
+      "lableName" : "酷蒙名师",
+      "picture" : "http://ke.etiantian.com/attach/goods/detail/PBH201804280001-3.png",
+      "lableId" : 2
+    }, {
+      "lableName" : "课程规格",
+      "picture" : "http://ke.etiantian.com/attach/goods/detail/PBH201804280001-4.png",
+      "lableId" : 3
+    }, {
+      "lableName" : "课堂介绍",
+      "picture" : "http://ke.etiantian.com/attach/goods/detail/PBH201804280001-5.png",
+      "lableId" : 1
+    }, {
+      "lableName" : "购买须知",
+      "picture" : "http://ke.etiantian.com/attach/goods/detail/PBH201804280001-6.png",
+      "lableId" : 4
+    } ],
+    "properties" : [ {
+      "pid" : 1001,
+      "pName" : "年级",
+      "isSale" : 1,
+      "valueList" : [ {
+        "vid" : 6,
+        "vName" : "初一"
+      }, {
+        "vid" : 5,
+        "vName" : "初二"
+      }, {
+        "vid" : 4,
+        "vName" : "初三"
+      } ]
+    }, {
+      "pid" : 1002,
+      "pName" : "学科",
+      "isSale" : 1,
+      "valueList" : [ {
+        "vid" : 7,
+        "vName" : "数学"
+      }, {
+        "vid" : 8,
+        "vName" : "物理"
+      }, {
+        "vid" : 9,
+        "vName" : "化学"
+      } ]
+    } ],
+    "goodsList" : [ {
+      "goodsId" : 12,
+      "skuId" : "PBH2018042800010001",
+      "skuName" : "初一数学智慧课堂",
+      "isBuy" : 0,
+      "marketPrice" : 1580.0,
+      "shopPrice" : 1.0,
+      "properties" : "1001:6;1002:7",
+      "propertiesName" : "年级:初一;学科:数学",
+      "propertyName" : "初一 数学",
+      "pictures" : "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+    }, {
+      "goodsId" : 10,
+      "skuId" : "PBH2018042800010002",
+      "skuName" : "初二数学智慧课堂",
+      "isBuy" : 0,
+      "marketPrice" : 1680.0,
+      "shopPrice" : 1.0,
+      "properties" : "1001:5;1002:7",
+      "propertiesName" : "年级:初二;学科:数学",
+      "propertyName" : "初二 数学",
+      "pictures" : "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010002.png"
+    }, {
+      "goodsId" : 2,
+      "skuId" : "PBH2018042800010003",
+      "skuName" : "初三数学智慧课堂",
+      "isBuy" : 0,
+      "marketPrice" : 1780.0,
+      "shopPrice" : 1.0,
+      "properties" : "1001:4;1002:7",
+      "propertiesName" : "年级:初三;学科:数学",
+      "propertyName" : "初三 数学",
+      "pictures" : "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010003.png"
+    }, {
+      "goodsId" : 4,
+      "skuId" : "PBH2018042800010004",
+      "skuName" : "初二物理智慧课堂",
+      "isBuy" : 0,
+      "marketPrice" : 1680.0,
+      "shopPrice" : 1.0,
+      "properties" : "1001:5;1002:8",
+      "propertiesName" : "年级:初二;学科:物理",
+      "propertyName" : "初二 物理",
+      "pictures" : "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010004.png"
+    }, {
+      "goodsId" : 11,
+      "skuId" : "PBH2018042800010005",
+      "skuName" : "初三物理智慧课堂",
+      "isBuy" : 0,
+      "marketPrice" : 1780.0,
+      "shopPrice" : 1.0,
+      "properties" : "1001:4;1002:8",
+      "propertiesName" : "年级:初三;学科:物理",
+      "propertyName" : "初三 物理",
+      "pictures" : "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010005.png"
+    }, {
+      "goodsId" : 3,
+      "skuId" : "PBH2018042800010006",
+      "skuName" : "初三化学智慧课堂",
+      "isBuy" : 0,
+      "marketPrice" : 1780.0,
+      "shopPrice" : 1.0,
+      "properties" : "1001:4;1002:9",
+      "propertiesName" : "年级:初三;学科:化学",
+      "propertyName" : "初三 化学",
+      "pictures" : "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010006.png"
+    } ]
+  }
+}

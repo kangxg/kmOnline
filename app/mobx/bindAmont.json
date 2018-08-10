@@ -1,0 +1,17 @@
+{
+  "bind_amount_data":
+  [
+    {
+      "title":"购买记录",
+      "data":[
+        {
+          "name":"微信",
+          "amount":"去绑定",
+          "openId":"",
+          "bindingAppId":"",
+          "bindingId":""
+        }
+      ]
+    }
+  ]
+}

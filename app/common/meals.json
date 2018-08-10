@@ -1,0 +1,36 @@
+{
+  "code" : 1,
+  "msg" : "操作成功",
+  "data" : [ {
+    "goodsId" : 13,
+    "goodsName" : "初二数学物理套餐",
+    "type" : null,
+    "isBuy" : 0,
+    "marketPrice" : 2.0,
+    "packageDiscount" : 3358.0,
+    "amount" : 3360.0,
+    "units" : [ {
+      "goodsId" : 10,
+      "skuId" : "PBH2018042800010004",
+      "skuName" : "智慧课堂(初中)",
+      "isBuy" : 0,
+      "marketPrice" : 1680.0,
+      "shopPrice" : 1.0,
+      "properties" : "1001:5;1002:8",
+      "propertiesName" : "年级:初二;学科:物理",
+      "propertyName" : "初二 物理",
+      "pictures" : "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010004.png"
+    }, {
+      "goodsId" : 10,
+      "skuId" : "PBH2018042800010002",
+      "skuName" : "智慧课堂(初中)",
+      "isBuy" : 0,
+      "marketPrice" : 1680.0,
+      "shopPrice" : 1.0,
+      "properties" : "1001:5;1002:7",
+      "propertiesName" : "年级:初二;学科:数学",
+      "propertyName" : "初二 数学",
+      "pictures" : "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010002.png"
+    } ]
+  } ]
+}

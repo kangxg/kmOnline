@@ -1,0 +1,6074 @@
+{
+  "code": 1,
+  "msg": "操作成功",
+  "data": [
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 1,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+    {
+      "orderId": 2018062294630197,
+      "userId": 100000188,
+      "phone": "18310511388",
+      "orderTime": "2018-06-22 10:39:09",
+      "paymentTime": null,
+      "amount": 2,
+      "marketMoney": 1580,
+      "reduceMoney": 0,
+      "paymentMoney": 1,
+      "status": 12,
+      "statusName": "已关闭",
+      "goodses": [
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（初中）",
+          "type": 1,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（初中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:初一;学科:数学",
+              "propertyName": "初一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        },
+        {
+          "goodsId": 12,
+          "goodsName": "智慧课堂（高中）",
+          "type": 2,
+          "isBuy": 0,
+          "marketPrice": 1580,
+          "packageDiscount": 1579,
+          "amount": 1,
+          "units": [
+            {
+              "goodsId": 12,
+              "skuId": "PBH2018042800010001",
+              "skuName": "智慧课堂（高中）",
+              "isBuy": 0,
+              "marketPrice": 1580,
+              "shopPrice": 1,
+              "properties": "1001:6;1002:7",
+              "propertiesName": "年级:高一;学科:数学",
+              "propertyName": "高一 数学",
+              "pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+            }
+          ]
+        }
+      ],
+      "activitites": [
+        {
+          "activityId": 11110000,
+          "activityName": "奔驰优惠",
+          "discount": 400
+        },
+        {
+          "activityId": 11110001,
+          "activityName": "奔驰优惠2",
+          "discount": 100
+        }
+      ],
+      "userName": "S18310511388"
+    },
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+},
+{
+"orderId": 2018062294630197,
+"userId": 100000188,
+"phone": "18310511388",
+"orderTime": "2018-06-22 10:39:09",
+"paymentTime": null,
+"amount": 1,
+"marketMoney": 1580,
+"reduceMoney": 0,
+"paymentMoney": 1,
+"status": 12,
+"statusName": "已关闭",
+"goodses": [
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（初中）",
+"type": 1,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（初中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:初一;学科:数学",
+"propertyName": "初一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+},
+{
+"goodsId": 12,
+"goodsName": "智慧课堂（高中）",
+"type": 2,
+"isBuy": 0,
+"marketPrice": 1580,
+"packageDiscount": 1579,
+"amount": 1,
+"units": [
+{
+"goodsId": 12,
+"skuId": "PBH2018042800010001",
+"skuName": "智慧课堂（高中）",
+"isBuy": 0,
+"marketPrice": 1580,
+"shopPrice": 1,
+"properties": "1001:6;1002:7",
+"propertiesName": "年级:高一;学科:数学",
+"propertyName": "高一 数学",
+"pictures": "http://ke.etiantian.com/attach/goods/sku/PBH2018042800010001.png"
+}
+]
+}
+],
+"activitites": [
+{
+"activityId": 11110000,
+"activityName": "奔驰优惠",
+"discount": 400
+},
+{
+"activityId": 11110001,
+"activityName": "奔驰优惠2",
+"discount": 100
+}
+],
+"userName": "S18310511388"
+}
+  ]
+}
